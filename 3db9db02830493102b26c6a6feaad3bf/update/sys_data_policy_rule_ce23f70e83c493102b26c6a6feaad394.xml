@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>return_condition</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 08:13:55</sys_created_on>
+        <sys_data_policy display_value="Returned Data policy">dcb23bca83c493102b26c6a6feaad31a</sys_data_policy>
+        <sys_id>ce23f70e83c493102b26c6a6feaad394</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>return_condition</sys_name>
+        <sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope>
+        <sys_update_name>sys_data_policy_rule_ce23f70e83c493102b26c6a6feaad394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 08:14:23</sys_updated_on>
+        <table>x_1611922_asset_0_request</table>
+    </sys_data_policy_rule>
+</record_update>

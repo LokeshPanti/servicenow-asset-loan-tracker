@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">7c88ec1a838c93102b26c6a6feaad3e2</canvas>
+        <component display_value="Divider">8cd779b506633a71bf8d127531094cdc</component>
+        <component_props>{"orientation":"vertical","layout":"fixedlength","length":"300","showHeader":false}</component_props>
+        <h>5</h>
+        <name/>
+        <required_translations>[]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 12:42:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8b0309a83cc93102b26c6a6feaad3b7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_widget_b8b0309a83cc93102b26c6a6feaad3b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 12:53:39</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>62</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</application>
+        <file_path/>
+        <instance_id>a018166f3b260790a80ce0bf55e45ad4</instance_id>
+        <instance_name>dev443555</instance_name>
+        <name>par_dashboard_widget_b8b0309a83cc93102b26c6a6feaad3b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">7c88ec1a838c93102b26c6a6feaad3e2</canvas><component display_value="Divider">8cd779b506633a71bf8d127531094cdc</component><component_props>{"orientation":"vertical","layout":"fixedlength","length":"300","showHeader":false}</component_props><h>5</h><name/><required_translations>[]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-22 12:42:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8b0309a83cc93102b26c6a6feaad3b7</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package><sys_policy/><sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope><sys_update_name>par_dashboard_widget_b8b0309a83cc93102b26c6a6feaad3b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-22 12:53:39</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>62</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1605035315</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bdb95f02830493102b26c6a6feaad32b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 12:53:39</sys_created_on>
+        <sys_id>233370de83cc93102b26c6a6feaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a163ac9f170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 12:53:39</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>233370dea6cc931098e62e4b816c9cb2</update_guid>
+        <update_guid_history>233370dea6cc931098e62e4b816c9cb2:-1605035315,e4c2709e01cc9310ebedf1a1130a288a:-1552451713,30b0309a65cc9310967b2f736797e4ba:-527757792</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d1933cde83cc93102b26c6a6feaad344</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 12:55:08</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0b0a3b43fd2548b980806ce628bfe199</sys_id>
+        <sys_metadata>b8b0309a83cc93102b26c6a6feaad3b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope>
+        <sys_scope_delete display_value="">a726d2f5f98e40d6adec8af7726fec04</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_b8b0309a83cc93102b26c6a6feaad3b7</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_b8b0309a83cc93102b26c6a6feaad3b7">233370de83cc93102b26c6a6feaad3b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 12:55:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

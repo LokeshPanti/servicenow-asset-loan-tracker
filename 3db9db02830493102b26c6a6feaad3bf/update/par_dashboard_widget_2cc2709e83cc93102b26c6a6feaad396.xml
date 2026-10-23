@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">7c88ec1a838c93102b26c6a6feaad3e2</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1k5hqalg7u2skkvlsfok","filterName":"Filter Assets","filterCustomId":"","filterComponentType":"multiselect","datasource":{"type":"table","payload":{"field":"category","fieldType":"choice","table":"x_1611922_asset_0_asset","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"isInHierarchy":true,"field":"asset.category","starting_at":"","table":"x_1611922_asset_0_request","operator":{"hierarchy_id":"","starting_at":"","type":"hierarchy"},"primaryKey":"sys_id"}},{"type":"table","payload":{"isInHierarchy":true,"starting_at":"","table":"x_1611922_asset_0_asset","operator":{"hierarchy_id":"","starting_at":"","type":"hierarchy"},"primaryKey":"sys_id"}}],"defaultSelectedItems":[],"cascadingConfig":{"filtersFollowing":[],"filterM2MConfigurations":[]},"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"f488ec1a838c93102b26c6a6feaad3dd","isDashboard":true,"isGroup":false,"value":[],"showHeader":false}</component_props>
+        <h>4</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Filter Assets","code":"PAR_DASHBOARD.7c88ec1a838c93102b26c6a6feaad3e2.2cc2709e83cc93102b26c6a6feaad396"},{"comment":"","message":"Apply","code":"PAR_DASHBOARD.7c88ec1a838c93102b26c6a6feaad3e2.2cc2709e83cc93102b26c6a6feaad396"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 12:51:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2cc2709e83cc93102b26c6a6feaad396</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope>
+        <sys_update_name>par_dashboard_widget_2cc2709e83cc93102b26c6a6feaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 12:53:39</sys_updated_on>
+        <visualization/>
+        <w>18</w>
+        <widget_props/>
+        <x>0</x>
+        <y>19</y>
+    </par_dashboard_widget>
+</record_update>

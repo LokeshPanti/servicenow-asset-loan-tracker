@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1611922_asset_0_request">x_1611922_asset_0_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LOAN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 06:51:10</sys_created_on>
+        <sys_id>ad40a7ce830493102b26c6a6feaad397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOAN</sys_name>
+        <sys_package display_value="Asset Loan" source="x_1611922_asset_0">3db9db02830493102b26c6a6feaad3bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Loan">3db9db02830493102b26c6a6feaad3bf</sys_scope>
+        <sys_update_name>sys_number_ad40a7ce830493102b26c6a6feaad397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 06:51:10</sys_updated_on>
+    </sys_number>
+</record_update>
